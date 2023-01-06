@@ -1,0 +1,1 @@
+<div class="text-gray-600 body-font bg-gradient-to-b from-gray-600  to-black absolute w-full h-full overflow-hidden">
